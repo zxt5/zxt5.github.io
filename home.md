@@ -7,9 +7,9 @@
         <div style="font-size: 20px;">Undergraduate at <a href="https://ev.buaa.edu.cn/">Beihang University</a></div>
         <br/>
         <br/>
-    	<div style="font-size: 20px;"><a herf="cv.pdf">CV</a></div>
-    	<div style="font-size: 20px;">Github: <a herf="https://github.com/zxt539">zxt539</a></div>
-    	<div style="font-size: 20px;">LinkedIn: <a herf="https://www.linkedin.com/in/xintong-zhou-981117246/">Xintong Zhou</a></div>
+    	<div style="font-size: 20px;"><a href="cv.pdf">CV</a></div>
+    	<div style="font-size: 20px;">Github: <a href="https://github.com/zxt539">zxt539</a></div>
+    	<div style="font-size: 20px;">LinkedIn: <a href="https://www.linkedin.com/in/xintong-zhou-981117246/">Xintong Zhou</a></div>
         <div style="font-size: 20px;">Email: xt_zhou@buaa.edu.cn</a></div> 
 
 ---
