@@ -20,17 +20,25 @@
 
 I am currently a last-year undergraduate in Software Engineering at [Beihang University](https://ev.buaa.edu.cn/). I will join David R. Cheriton School of Computer Science at [the University of Waterloo](https://cs.uwaterloo.ca/) as a MMath student this fall. My advisor is Prof. [Chengnian Sun](https://chengniansun.bitbucket.io/public/).
 
-## Education
+
+
+# Education
 
 - B.Eng. in Software Engineering, Beihang University, Sep 2018 ~ Jul 2023
 - MMath in Computer Science, University of Waterloo, Sep 2023 ~ 
 
-## Research Interests
+
+
+# Research Interests
 
 - Software Engineering
+
 - Programming Languages
+
 - Formal Methods
 
-## Projects
+  
+
+# Projects
 
 - Optimization for SMT-based Finite Model Finding in Fotress [[code]](https://github.com/WatForm/fortress) (Miatcs Internship & Undergraduate Thesis)
