@@ -1,7 +1,8 @@
-# 奇迹的山
+# 奇迹の山
 
-![奇迹的山-1](/home/zxt/Downloads/奇迹的山-1.JPG)
+![iKxcLN.jpeg](https://i.328888.xyz/2023/04/29/iKxcLN.jpeg)
 
-![奇迹的山-2](/home/zxt/Downloads/奇迹的山-2.JPG)
+![iKxBRd.jpeg](https://i.328888.xyz/2023/04/29/iKxBRd.jpeg)
 
-![奇迹的山-3](/home/zxt/Downloads/奇迹的山-3.JPG)
+![iKxXob.jpeg](https://i.328888.xyz/2023/04/29/iKxXob.jpeg)
+
