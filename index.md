@@ -1,15 +1,14 @@
 <div>
-    <div style="float: left; width: 200px">
-        <img src="https://i.328888.xyz/2023/03/13/vzjY3.jpeg" width="90%"/>
+    <div style="float: left; width: 300px">
+        <img src="./zxt.jpg" width="150%"/>
     </div>
-    <div style="min-height: 300px; padding-left:210px">
-        <div style="font-size: 42px; font-weight: bold">Xintong Zhou</div> 
-        <div style="font-size: 36px; font-weight: bold">周昕潼</div> 
-        <div style="font-size: 20px;">Undergraduate at <a href="https://ev.buaa.edu.cn/">Beihang University</a></div>
+    <div style="min-height: 200px; padding-left:330px">
+        <div style="font-size: 38px; font-weight: bold">Xintong Zhou</div> 
+        <div style="font-size: 30px; font-weight: bold">周昕潼</div> 
         <br/>
-    	<div style="font-size: 20px;"><a href="cv.pdf">CV</a></div>
-    	<div style="font-size: 20px;">Github: <a href="https://github.com/zxt539">zxt539</a></div>
-        <div style="font-size: 20px;">Email: xt_zhou@buaa.edu.cn</a></div> 
+    	<div style="font-size: 18px;"><a href="cv.pdf">CV</a></div>
+    	<div style="font-size: 18px;">Github: <a href="https://github.com/zxt539">zxt539</a></div>
+        <div style="font-size: 18px;">Email: zhouxintong2000@163.com</a></div> 
 
 ---
 
@@ -17,7 +16,9 @@
 
 # About
 
-I am currently a last-year undergraduate in Software Engineering at [Beihang University](https://ev.buaa.edu.cn/). I will join David R. Cheriton School of Computer Science at [the University of Waterloo](https://cs.uwaterloo.ca/) as a MMath student this fall. My advisor is Prof. [Chengnian Sun](https://chengniansun.bitbucket.io/public/). I am interested in programming languages and software development.
+I got my bachelor degree in software engineering from [Beihang University](https://ev.buaa.edu.cn/) in July 2023. I will join David R. Cheriton School of Computer Science at [the University of Waterloo](https://cs.uwaterloo.ca/) as a MMath student this fall. My advisor is Prof. [Chengnian Sun](https://chengniansun.bitbucket.io/public/). I am interested in software engineering and programming languages.
+
+There is chance that I will have to defer the program at UWaterloo if I don't get the study permit of Canada before September.
 
 
 
