@@ -22,6 +22,8 @@ body.typora-export { padding-left: 30px; padding-right: 30px; }
 @media screen and (max-width: 500px) {
   body.typora-export { padding-left: 0px; padding-right: 0px; }
   #write { padding-left: 20px; padding-right: 20px; }
+  .CodeMirror-sizer { margin-left: 0px !important; }
+  .CodeMirror-gutters { display: none !important; }
 }
 #write li > figure:last-child { margin-bottom: 0.5rem; }
 #write ol, #write ul { position: relative; }
@@ -49,7 +51,7 @@ sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inh
 #write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
 figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
 figure > table { margin: 0px; }
-thead, tr { break-inside: avoid; break-after: auto; }
+tr { break-inside: avoid; break-after: auto; }
 thead { display: table-header-group; }
 table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
 table.md-table td { min-width: 32px; }
@@ -71,7 +73,6 @@ div.hr:focus { cursor: none; }
 #write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
 .md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
 .CodeMirror-line, twitterwidget { break-inside: avoid; }
-svg { break-inside: avoid; }
 .footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
 .footnotes + .footnotes { margin-top: 0px; }
 .md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
@@ -86,7 +87,7 @@ blockquote > :first-child, li > :first-child { margin-top: 0px; }
 #write .footnote-line { white-space: pre-wrap; }
 @media print {
   body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
-  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; padding-bottom: 0px !important; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
   .typora-export * { -webkit-print-color-adjust: exact; }
   .typora-export #write { break-after: avoid; }
   .typora-export #write::after { height: 0px; }
@@ -129,7 +130,6 @@ p > .md-image:only-child { display: inline-block; width: 100%; }
 }
 a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
 .footnote-line a:not(.reversefootnote) { color: inherit; }
-.reversefootnote { font-family: ui-monospace, sans-serif; }
 .md-attr { display: none; }
 .md-fn-count::after { content: "."; }
 code, pre, samp, tt { font-family: var(--monospace); }
@@ -199,7 +199,6 @@ mark .md-meta { color: rgb(0, 0, 0); }
 .typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
 .typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
 .md-inline-math-container mjx-container { zoom: 0.95; }
-mjx-container { break-inside: avoid; }
 
 
 :root {
@@ -458,8 +457,11 @@ code {
     html {
         font-size: 13px;
     }
+    table,
     pre {
         page-break-inside: avoid;
+    }
+    pre {
         word-wrap: break-word;
     }
 }
@@ -588,20 +590,19 @@ header, .context-menu, .megamenu-content, footer{
 
 
 
-</style><title>home</title>
+</style><title>index</title>
 </head>
-<body class='typora-export'><div class='typora-export-content'>
+<body class='typora-export os-windows'><div class='typora-export-content'>
 <div id='write'  class=''><div>
-    <div style="float: left; width: 200px">
-        <img src="https://i.328888.xyz/2023/03/13/vzjY3.jpeg" width="90%">
+    <div style="float: left; width: 300px">
+        <img src="./zxt.jpg" width="150%">
     </div>
-    <div style="min-height: 300px; padding-left:210px">
-        <div style="font-size: 42px; font-weight: bold">Xintong Zhou</div> 
-        <div style="font-size: 36px; font-weight: bold">周昕潼</div> 
-        <div style="font-size: 20px;">Undergraduate at <a href="https://ev.buaa.edu.cn/">Beihang University</a></div>
+    <div style="min-height: 200px; padding-left:330px">
+        <div style="font-size: 38px; font-weight: bold">Xintong Zhou</div> 
+        <div style="font-size: 30px; font-weight: bold">周昕潼</div> 
         <br>
-    	<div style="font-size: 20px;"><a href="cv.pdf">CV</a></div>
-    	<div style="font-size: 20px;">Github: <a href="https://github.com/zxt539">zxt539</a></div>
-        <div style="font-size: 20px;">Email: xt_zhou@buaa.edu.cn</div> </div></div><hr /><p>&nbsp;</p><h1 id='about'><span>About</span></h1><p><span>I am currently a last-year undergraduate in Software Engineering at </span><a href='https://ev.buaa.edu.cn/'><span>Beihang University</span></a><span>. I will join David R. Cheriton School of Computer Science at </span><a href='https://cs.uwaterloo.ca/'><span>the University of Waterloo</span></a><span> as a MMath student this fall. My advisor is Prof. </span><a href='https://chengniansun.bitbucket.io/public/'><span>Chengnian Sun</span></a><span>. I am interested in programming languages and software development.</span></p><p>&nbsp;</p><h1 id='education'><span>Education</span></h1><ul><li><span>B.Eng. in Software Engineering, Beihang University, </span><em><strong><span>Sep 2018 ~ Jul 2023</span></strong></em></li><li><span>MMath in Computer Science, University of Waterloo, </span><em><strong><span>Sep 2023 ~</span></strong></em><span> </span></li></ul><p>&nbsp;</p><h1 id='research-interests'><span>Research Interests</span></h1><ul><li><p><span>Software Engineering</span></p></li><li><p><span>Programming Languages</span></p></li><li><p><span>Formal Methods</span></p><p>&nbsp;</p></li></ul><h1 id='projects'><span>Projects</span></h1><ul><li><span>Optimization for SMT-based Finite Model Finding in Fotress </span><a href='https://github.com/WatForm/fortress'><span>[code]</span></a><span> (Miatcs Internship &amp; Undergraduate Thesis)</span></li></ul><p>&nbsp;</p></div></div>
+    	<div style="font-size: 18px;"><a href="cv.pdf">CV</a></div>
+    	<div style="font-size: 18px;">Github: <a href="https://github.com/zxt539">zxt539</a></div>
+        <div style="font-size: 18px;">Email: zhouxintong2000@163.com</div> </div></div><hr /><p>&nbsp;</p><h1 id='about'><span>About</span></h1><p><span>I got my bachelor degree in software engineering from </span><a href='https://ev.buaa.edu.cn/'><span>Beihang University</span></a><span> in July 2023. I will join David R. Cheriton School of Computer Science at </span><a href='https://cs.uwaterloo.ca/'><span>the University of Waterloo</span></a><span> as a MMath student this fall. My advisor is Prof. </span><a href='https://chengniansun.bitbucket.io/public/'><span>Chengnian Sun</span></a><span>. I am interested in software engineering and programming languages.</span></p><p><span>There is chance that I will have to defer the program at UWaterloo if I don&#39;t get the study permit of Canada before September.</span></p><p>&nbsp;</p><h1 id='education'><span>Education</span></h1><ul><li><span>B.Eng. in Software Engineering, Beihang University, </span><em><strong><span>Sep 2018 ~ Jul 2023</span></strong></em></li><li><span>MMath in Computer Science, University of Waterloo, </span><em><strong><span>Sep 2023 ~</span></strong></em><span> </span></li></ul><p>&nbsp;</p><h1 id='research-interests'><span>Research Interests</span></h1><ul><li><p><span>Software Engineering</span></p></li><li><p><span>Programming Languages</span></p></li><li><p><span>Formal Methods</span></p><p>&nbsp;</p></li></ul><h1 id='projects'><span>Projects</span></h1><ul><li><span>Optimization for SMT-based Finite Model Finding in Fotress </span><a href='https://github.com/WatForm/fortress'><span>[code]</span></a><span> (Miatcs Internship &amp; Undergraduate Thesis)</span></li></ul></div></div>
 </body>
 </html>
