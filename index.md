@@ -25,14 +25,14 @@ I got my bachelor degree in software engineering from [Beihang University](https
 
 ## Education
 
-- B.Eng. in Software Engineering, Beihang University, ***Sep 2018 ~ Jul 2023***
-- MMath in Computer Science, University of Waterloo, ***Sep 2023 ~*** 
+- B.Eng. in Software Engineering, Beihang University, *Sep 2018 ~ Jul 2023*
+- MMath in Computer Science, University of Waterloo, *Sep 2023 ~*
 
 
 
 ## Projects
 
-- Optimization for SMT-based Finite Model Finding in Fortress (Mitacs Internship & Undergraduate Thesis) [[code]](https://github.com/WatForm/fortress)
+- Optimization for SMT-based Finite Model Finding in Fortress, *supervised by* [Prof. Nancy Day](https://cs.uwaterloo.ca/~nday/)
 
 - Fishing Surveys - Online Survey Website [[code]](https://github.com/zxt539/FishQuestionnaire-frontend)
 
