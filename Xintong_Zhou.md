@@ -32,7 +32,7 @@ I got my bachelor degree in software engineering from [Beihang University](https
 
 ## Projects
 
-- Optimization for SMT-based Finite Model Finding in Fortress, *supervised by* [Prof. Nancy Day](https://cs.uwaterloo.ca/~nday/)
+- Optimization for SMT-based Finite Model Finding in Fortress, *supervised by [Prof. Nancy Day](https://cs.uwaterloo.ca/~nday/)* [[code]](https://github.com/WatForm/fortress)
 
 - Fishing Surveys - Online Survey Website [[code]](https://github.com/zxt539/FishQuestionnaire-frontend)
 
