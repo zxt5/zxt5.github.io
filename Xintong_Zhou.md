@@ -50,9 +50,3 @@ I got my bachelor degree in software engineering from [Beihang University](https
 - Mitacs Globalink Graduate Fellowship Award, *2023*
 - University of Waterloo Graduate Scholarship, *2023*
 - International Master's Award of Excellence (IMAE) of UWaterloo, *2023*
-
-
-
-## Blog
-
-- [Blog1](./blog/blog1.md)
