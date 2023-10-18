@@ -8,7 +8,8 @@
         <br/>
     	<div style="font-size: 16px;"><a href="cv.pdf">CV</a></div>
     	<div style="font-size: 16px;">Github: <a href="https://github.com/zxt539">zxt539</a></div>
-        <div style="font-size: 16px;">Email: zhouxintong2000[at]163.com</a></div> 
+        <div style="font-size: 16px;">Email: xt.zhou.cs[at]gmail.com</a></div> 
+
 
 
 ---
@@ -18,8 +19,6 @@
 ## About
 
 I got my bachelor degree in software engineering from [Beihang University](https://ev.buaa.edu.cn/) in 2023. I will join David R. Cheriton School of Computer Science at [the University of Waterloo](https://cs.uwaterloo.ca/) as a MMath student in Fall 2023. My advisor is Prof. [Chengnian Sun](https://chengniansun.bitbucket.io/public/). I am interested in software engineering, programming languages and formal methods.
-
-==There is chance that I will have to defer the program at UWaterloo if I don't get the study permit of Canada before September.==
 
 
 
@@ -52,3 +51,8 @@ I got my bachelor degree in software engineering from [Beihang University](https
 - University of Waterloo Graduate Scholarship, *2023*
 - International Master's Award of Excellence (IMAE) of UWaterloo, *2023*
 
+
+
+## Blog
+
+- [Blog1](./blog/blog1.md)
