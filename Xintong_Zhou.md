@@ -1,4 +1,4 @@
-<div>
+<div style="margin-bottom: 35px">
     <div style="float: left; width: 275px">
         <img src="./zxt.jpg" width="150%"/>
     </div>
@@ -9,9 +9,6 @@
     	<div style="font-size: 16px;"><a href="cv.pdf">CV</a></div>
     	<div style="font-size: 16px;">Github: <a href="https://github.com/zxt539">zxt539</a></div>
         <div style="font-size: 16px;">Email: xt.zhou.cs[at]gmail.com</a></div> 
-
-
-
 
 ---
 
