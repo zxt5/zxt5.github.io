@@ -3,7 +3,7 @@
         <img src="./zxt.jpg" width="150%"/>
     </div>
     <div style="min-height: 180px; padding-left:305px">
-        <div style="font-size: 35px; ">Xintong Zhou</div> 
+        <div style="font-size: 35px; "><b>Xintong Zhou</b></div> 
         <div style="font-size: 25px; ">周昕潼</div> 
         <br/>
     	<div style="font-size: 16px;"><a href="cv.pdf">CV</a></div>
@@ -12,39 +12,41 @@
 
 
 
+
 ---
 
 
 
-## About
+## **About**
 
-I got my bachelor degree in software engineering from [Beihang University](https://ev.buaa.edu.cn/) in 2023. I will join David R. Cheriton School of Computer Science at [the University of Waterloo](https://cs.uwaterloo.ca/) as a MMath student in Fall 2023. My advisor is Prof. [Chengnian Sun](https://chengniansun.bitbucket.io/public/). I am interested in software engineering, programming languages and formal methods.
+I am a mmath student in Computer Science at [the University of Waterloo](https://cs.uwaterloo.ca/). My advisor is [Prof. Chengnian Sun](https://chengniansun.bitbucket.io/public/). My research interest lies in software engineering and programming languages.
 
 
 
-## Education
+## **Education**
 
 - B.Eng. in Software Engineering, Beihang University, *Sep 2018 ~ Jul 2023*
-- MMath in Computer Science, University of Waterloo, *Sep 2023 ~*
+- MMath in Computer Science, University of Waterloo, *Jan 2024 ~*
 
 
 
-## Projects
+## **Experience**
 
-- Optimization for SMT-based Finite Model Finding in Fortress, *supervised by [Prof. Nancy Day](https://cs.uwaterloo.ca/~nday/)* [[code]](https://github.com/WatForm/fortress)
+- **Research Assistant**, *Jul ~ Oct 2022*
+  - Mitacs Globalink Internship, Advisor: *[Prof. Nancy Day](https://cs.uwaterloo.ca/~nday/)* 
+  - Project: Optimization for SMT-based Finite Model Finding in Fortress
 
-- Fishing Surveys - Online Survey Website [[code]](https://github.com/zxt539/FishQuestionnaire-frontend)
 
 
 
-## Teaching
+## **Teaching**
 
-- Teaching Assistant
+- **Teaching Assistant**
   - Introduction to Computer Science, Beihang University (Spring *2022*)
 
 
 
-## Awards
+## **Awards**
 
 - Mitacs Globalink Research Internship Award, *2022*
 - Mitacs Globalink Graduate Fellowship Award, *2023*

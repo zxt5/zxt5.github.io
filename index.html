@@ -205,6 +205,7 @@ mark .md-meta { color: rgb(0, 0, 0); }
 :root {
     --side-bar-bg-color: #fafafa;
     --control-text-color: #777;
+    --bg-color: #bfc2c4;
 }
 
 @include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
@@ -213,10 +214,10 @@ mark .md-meta { color: rgb(0, 0, 0); }
   /* open-sans-italic - latin-ext_latin */
     /* open-sans-700 - latin-ext_latin */
     /* open-sans-700italic - latin-ext_latin */
-  html {
+  /* html {
     font-size: 16px;
     -webkit-font-smoothing: antialiased;
-}
+} */
 
 body {
     font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', sans-serif;
@@ -225,23 +226,19 @@ body {
 }
 
 #write {
-    max-width: 860px;
+    max-width: 55%;
   	margin: 0 auto;
+    margin-top: 10px;
   	padding: 30px;
     padding-bottom: 100px;
+    background-color: white;
 }
 
-@media only screen and (min-width: 1400px) {
+/* @media only screen and (min-width: 1000px) {
 	#write {
 		max-width: 1024px;
 	}
-}
-
-@media only screen and (min-width: 1800px) {
-	#write {
-		max-width: 1200px;
-	}
-}
+} */
 
 #write > ul:first-child,
 #write > ol:first-child{
@@ -249,7 +246,7 @@ body {
 }
 
 a {
-    color: #b22020;
+    color: #0000ee;
 }
 h1,
 h2,
@@ -599,11 +596,11 @@ header, .context-menu, .megamenu-content, footer{
         <img src="./zxt.jpg" width="150%">
     </div>
     <div style="min-height: 180px; padding-left:305px">
-        <div style="font-size: 35px; ">Xintong Zhou</div> 
+        <div style="font-size: 35px; "><b>Xintong Zhou</b></div> 
         <div style="font-size: 25px; ">周昕潼</div> 
         <br>
     	<div style="font-size: 16px;"><a href="cv.pdf">CV</a></div>
     	<div style="font-size: 16px;">Github: <a href="https://github.com/zxt539">zxt539</a></div>
-        <div style="font-size: 16px;">Email: xt.zhou.cs[at]gmail.com</div> </div></div><p>&nbsp;</p><hr /><p>&nbsp;</p><h2 id='about'><span>About</span></h2><p><span>I got my bachelor degree in software engineering from </span><a href='https://ev.buaa.edu.cn/'><span>Beihang University</span></a><span> in 2023. I will join David R. Cheriton School of Computer Science at </span><a href='https://cs.uwaterloo.ca/'><span>the University of Waterloo</span></a><span> as a MMath student in Fall 2023. My advisor is Prof. </span><a href='https://chengniansun.bitbucket.io/public/'><span>Chengnian Sun</span></a><span>. I am interested in software engineering, programming languages and formal methods.</span></p><p>&nbsp;</p><h2 id='education'><span>Education</span></h2><ul><li><span>B.Eng. in Software Engineering, Beihang University, </span><em><span>Sep 2018 ~ Jul 2023</span></em></li><li><span>MMath in Computer Science, University of Waterloo, </span><em><span>Sep 2023 ~</span></em></li></ul><p>&nbsp;</p><h2 id='projects'><span>Projects</span></h2><ul><li><span>Optimization for SMT-based Finite Model Finding in Fortress, </span><em><span>supervised by </span><a href='https://cs.uwaterloo.ca/~nday/'><span>Prof. Nancy Day</span></a></em><span> </span><a href='https://github.com/WatForm/fortress'><span>[code]</span></a></li><li><span>Fishing Surveys - Online Survey Website </span><a href='https://github.com/zxt539/FishQuestionnaire-frontend'><span>[code]</span></a></li></ul><p>&nbsp;</p><h2 id='teaching'><span>Teaching</span></h2><ul><li><p><span>Teaching Assistant</span></p><ul><li><span>Introduction to Computer Science, Beihang University (Spring </span><em><span>2022</span></em><span>)</span></li></ul></li></ul><p>&nbsp;</p><h2 id='awards'><span>Awards</span></h2><ul><li><span>Mitacs Globalink Research Internship Award, </span><em><span>2022</span></em></li><li><span>Mitacs Globalink Graduate Fellowship Award, </span><em><span>2023</span></em></li><li><span>University of Waterloo Graduate Scholarship, </span><em><span>2023</span></em></li><li><span>International Master&#39;s Award of Excellence (IMAE) of UWaterloo, </span><em><span>2023</span></em></li></ul></div></div>
+        <div style="font-size: 16px;">Email: xt.zhou.cs[at]gmail.com</div> </div></div><p>&nbsp;</p><hr /><p>&nbsp;</p><h2 id='about'><strong><span>About</span></strong></h2><p><span>I am a mmath student in Computer Science at </span><a href='https://cs.uwaterloo.ca/'><span>the University of Waterloo</span></a><span>. My advisor is </span><a href='https://chengniansun.bitbucket.io/public/'><span>Prof. Chengnian Sun</span></a><span>. My research interest lies in software engineering and programming languages.</span></p><p>&nbsp;</p><h2 id='education'><strong><span>Education</span></strong></h2><ul><li><span>B.Eng. in Software Engineering, Beihang University, </span><em><span>Sep 2018 ~ Jul 2023</span></em></li><li><span>MMath in Computer Science, University of Waterloo, </span><em><span>Jan 2024 ~</span></em></li></ul><p>&nbsp;</p><h2 id='experience'><strong><span>Experience</span></strong></h2><ul><li><p><strong><span>Research Assistant</span></strong><span>, </span><em><span>Jul ~ Oct 2022</span></em></p><ul><li><span>Mitacs Globalink Internship, Advisor: </span><em><a href='https://cs.uwaterloo.ca/~nday/'><span>Prof. Nancy Day</span></a></em><span> </span></li><li><span>Project: Optimization for SMT-based Finite Model Finding in Fortress</span></li></ul></li></ul><p>&nbsp;</p><h2 id='teaching'><strong><span>Teaching</span></strong></h2><ul><li><p><strong><span>Teaching Assistant</span></strong></p><ul><li><span>Introduction to Computer Science, Beihang University (Spring </span><em><span>2022</span></em><span>)</span></li></ul></li></ul><p>&nbsp;</p><h2 id='awards'><strong><span>Awards</span></strong></h2><ul><li><span>Mitacs Globalink Research Internship Award, </span><em><span>2022</span></em></li><li><span>Mitacs Globalink Graduate Fellowship Award, </span><em><span>2023</span></em></li><li><span>University of Waterloo Graduate Scholarship, </span><em><span>2023</span></em></li><li><span>International Master&#39;s Award of Excellence (IMAE) of UWaterloo, </span><em><span>2023</span></em></li></ul></div></div>
 </body>
 </html>
