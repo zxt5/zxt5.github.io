@@ -7,8 +7,9 @@
         <div style="font-size: 25px; ">周昕潼</div> 
         <br/>
     	<div style="font-size: 16px;"><a href="cv.pdf">CV</a></div>
-    	<div style="font-size: 16px;">Github: <a href="https://github.com/zxt539">zxt539</a></div>
-        <div style="font-size: 16px;">Email: xt.zhou.cs[at]gmail.com</a></div> 
+    	<div style="font-size: 16px;">Github: <a href="https://github.com/zxt5">zxt5</a></div>
+        <div style="font-size: 16px;">Email: x27zhou@uwaterloo.ca</a></div> 
+
 
 ---
 
